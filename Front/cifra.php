@@ -1,7 +1,7 @@
 
 
 <?php
-#comentario
+#contar as qtd de caracter
 
 function ContarPalavras($palavra){
 
