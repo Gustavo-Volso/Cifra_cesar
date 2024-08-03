@@ -1,3 +1,15 @@
+<?php 
+
+require_once '.\cifra.php';
+
+
+if (isset($_POST['BtnCifra'])) {
+
+
+
+}
+?>
+
 <!DOCTYPE html>
 <html lang="pt-br">
     <head>
@@ -9,10 +21,27 @@
   </head>
 
 <body>
- 
-    <label for=""> Digite o código a ser cifradp</label>
-    <input type="text" name = "codigo_cifra">
-    <button> Codificar </button>
+    <div id="nav-bar">
+
+
+
+    </div>
+    
+    <div id="box-all">
+        <div id="box-cifra">
+            <label for=""> Digite o código a ser cifradp</label>
+            <input type="text" name = "codigo_cifra">
+            <button> Codificar </button>
+        </div>
+        
+        <div id = "box-descifra">
+            <label for=""> Digite o código a ser cifrado</label>
+            <input type="text" name = "codigo_cifra">
+            <button name="BtnCifra"> Codificar </button>
+        </div>
+
+    </div>
+    
 
 </body>
 </html>
