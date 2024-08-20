@@ -10,7 +10,7 @@
 ### Entrada de informação
 
 - Para que tudo funcione preciso que o usuário consiga escolher se quer codificar ou decodificar a cifra dele.
-- No pojeto foi indicado que utilizássemos um sistema de inserção de arquivo em .txt, mas além desse precisamos de labels para a inserção dos códigos sem precisar do usuário colocar um arquivo.
+- No projeto foi indicado que utilizássemos um sistema de inserção de arquivo em .txt, mas além desse precisamos de labels para a inserção dos códigos sem precisar do usuário colocar um arquivo.
 
 ### Análise da informação
 
