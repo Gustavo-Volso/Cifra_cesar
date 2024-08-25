@@ -1,4 +1,4 @@
-# Cifra_cesar color #RRGGBB
+# Cifra_cesar color 	#0000FF
 
 ## Para esse projeto é necessário alguns tópicos:
 
