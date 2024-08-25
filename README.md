@@ -1,4 +1,4 @@
-# Cifra_cesar color \colorbox(#RRGGBB)
+# Cifra_cesar color #RRGGBB
 
 ## Para esse projeto é necessário alguns tópicos:
 
